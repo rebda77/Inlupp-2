@@ -31,6 +31,8 @@ namespace Inlupp_2
                 {
                     quit = true;
                 }
+
+                var p = new Product();
             }
         }
     }

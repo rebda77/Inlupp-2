@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/rebeccadannerhall/.nuget/packages/": {}
+    "C:\\Users\\rebec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rebeccadannerhall/Projects/Inlupp-2/Inlupp-2/Inlupp-2.csproj",
+      "projectUniqueName": "C:\\Users\\rebec\\Source\\Repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj",
       "projectName": "Inlupp-2",
-      "projectPath": "/Users/rebeccadannerhall/Projects/Inlupp-2/Inlupp-2/Inlupp-2.csproj",
-      "packagesPath": "/Users/rebeccadannerhall/.nuget/packages/",
-      "outputPath": "/Users/rebeccadannerhall/Projects/Inlupp-2/Inlupp-2/obj/",
+      "projectPath": "C:\\Users\\rebec\\Source\\Repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj",
+      "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rebec\\Source\\Repos\\Inlupp-2\\Inlupp-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/rebeccadannerhall/.config/NuGet/NuGet.Config"
+        "C:\\Users\\rebec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
