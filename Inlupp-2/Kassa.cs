@@ -17,7 +17,7 @@ namespace Inlupp_2
 
             Console.WriteLine("Kommandon: ");
             Console.WriteLine("PAY");
-            Console.WriteLine("<PRODUKTID> <antal> ");
+            Console.WriteLine("<PRODUKTID> <antal>");
 
             bool betala = false;
             bool formatinput = false;
@@ -51,7 +51,7 @@ namespace Inlupp_2
                     while (!int.TryParse(inputVal[1], out korrektID) &&
                            kvittoLista.Exists(x => x.Produkt.Id != korrektID))
                     {
-                        Console.WriteLine("Detta finns inte i din kundkorg, välj något annat id!");
+                        Console.WriteLine("Fel ID, finns inte i korgen");
                         inputVal[1] = Console.ReadLine();
                     }
 
@@ -78,7 +78,7 @@ namespace Inlupp_2
 
                     while (!decimal.TryParse(antal, out korrektFormatAntal))
                     {
-                        Console.WriteLine($"Förstår inte: {antal} Testa igen tack!");
+                        Console.WriteLine($"Fel kommando {antal} Testa igen");
                         antal = Console.ReadLine();
                     }
 

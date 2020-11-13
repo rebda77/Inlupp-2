@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Text;
 
 namespace Inlupp_2
 {
@@ -17,7 +16,7 @@ namespace Inlupp_2
         public string Namn { get; set; }
 
 
-        public static void InitProducts()
+        public static void InitieraProdukter()
         {
             var prod1 = new Produkt(0001)
             {
@@ -58,9 +57,9 @@ namespace Inlupp_2
                 prod5
             };
 
-            var filexisterar = File.Exists(Kassa.filProdukt);
+            var filExisterar = File.Exists(Kassa.filProdukt);
 
-            if (filexisterar)
+            if (filExisterar)
             {
                 if (string.IsNullOrEmpty(File.ReadAllText(Kassa.filProdukt)))
                 {
