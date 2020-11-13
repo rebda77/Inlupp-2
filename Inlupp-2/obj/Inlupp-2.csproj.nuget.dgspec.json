@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rebec\\Source\\Repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj": {}
+    "C:\\Users\\rebec\\source\\repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rebec\\Source\\Repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj": {
+    "C:\\Users\\rebec\\source\\repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rebec\\Source\\Repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj",
+        "projectUniqueName": "C:\\Users\\rebec\\source\\repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj",
         "projectName": "Inlupp-2",
-        "projectPath": "C:\\Users\\rebec\\Source\\Repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj",
+        "projectPath": "C:\\Users\\rebec\\source\\repos\\Inlupp-2\\Inlupp-2\\Inlupp-2.csproj",
         "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rebec\\Source\\Repos\\Inlupp-2\\Inlupp-2\\obj\\",
+        "outputPath": "C:\\Users\\rebec\\source\\repos\\Inlupp-2\\Inlupp-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rebec\\AppData\\Roaming\\NuGet\\NuGet.Config",

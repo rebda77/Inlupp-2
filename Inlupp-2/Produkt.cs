@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace Inlupp_2
 {
-    public class Product
+    public class Produkt
     {
-        public Product(int id)
+        public Produkt(int id)
         {
             Id = id;
 
