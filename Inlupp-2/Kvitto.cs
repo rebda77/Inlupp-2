@@ -5,7 +5,9 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Linq;
 
-namespace Test
+namespace Inlupp_2
+
+
 {
     class Kvitto
     {
